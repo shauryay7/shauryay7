@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate and results-driven Full-Stack<br>Developer with strong expertise in Spring<br>Boot, Python Backend Development, and AI &<br>Machine Learning. Skilled in building robust<br>and scalable API solutions, optimizing<br>database performance, and delivering<br>seamless end-to-end web applications. Adept<br>at translating complex problems into efficient,<br>maintainable code with a focus on clean<br>architecture and user-centric design. Excels in<br>collaborative environments and consistently<br>meets project deadlines with high-quality<br>output.
+Passionate and results-driven Full-Stack Developer with strong expertise in Spring Boot, Python Backend Development, and AI & Machine Learning. Skilled in building robust and scalable API solutions, optimizing database performance, and delivering seamless end-to-end web applications. Adept at translating complex problems into efficient, maintainable code with a focus on clean architecture and user-centric design. Excels in collaborative environments and consistently meets project deadlines with high-quality output.
 
 
 # 💻 Tech Stack:
